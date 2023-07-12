@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **B.E (Information Science)**
 
-- 💬 Ask me about **| java | c | MS word | Gaming | Painting | Android development | Adobe Premiere Pro | Python |**
+- 💬 Ask me about **| java | c | MS word | Gaming | Painting | Android development | Adobe Premiere Pro | Python | HTML | CSS | Java Script |**
 
 - 📫 How to reach me **harsharajb14303@gmail.com**
 

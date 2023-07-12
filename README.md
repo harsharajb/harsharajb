@@ -20,7 +20,7 @@
 <a href="https://www.linkedin.com/in/harsharajb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsharaj b" height="30" width="40" /></a>
 <a href="https://codesandbox.io/u/harsharajb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="harsharajb" height="30" width="40" /></a>
 <a href="https://www.facebook.com/harsharajb.gowda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="harsharaj b gowda" height="30" width="40" /></a>
-<a href="https://instagram.com/0.1__h_a_r_s_h_a__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="0.1__h_a_r_s_h_a__" height="30" width="40" /></a>
+<a href="https://www.instagram.com/harsharaj.b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="0.1__h_a_r_s_h_a__" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/harsharajb?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="harsharajb14303" height="30" width="40" /></a>
 </p>
 
